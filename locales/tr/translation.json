@@ -1,0 +1,35 @@
+{
+  "features": {
+    "title": "Özellikler",
+    "description": "Telegram Mini Apps ve diğer faydalı projeler tarafından sağlanan özellikler hakkında daha fazla bilgi edinmek için bu sayfaları kullanabilirsiniz"
+  },
+  "tonConnect": {
+    "title": "TON Bağlantısı",
+    "subtitle": "TON cüzdanınızı bağlayın",
+    "placeholder": {
+      "header": "TON Bağlantısı",
+      "description": "TON Connect ile ilgili verileri görüntülemek için cüzdanınızı bağlamanız gerekmektedir"
+    }
+  },
+  "appLaunchData": {
+    "title": "Uygulama Başlatma Verileri",
+    "description": "Bu sayfalar, geliştiricinin mevcut başlatma bilgileri hakkında daha fazla bilgi edinmesine yardımcı olur",
+    "initData": "Başlangıç Verileri",
+    "launchParams": "Başlatma Parametreleri",
+    "themeParams": "Tema Parametreleri",
+    "subtitles": {
+      "userData": "Kullanıcı verileri, sohbet bilgileri, teknik veriler",
+      "platform": "Platform tanımlayıcı, Mini Apps versiyonu, vb.",
+      "theme": "Telegram uygulama paleti bilgileri"
+    }
+  },
+  "errors": {
+    "unsupported": {
+      "header": "Hata",
+      "description": "Bu uygulamayı çalıştırmak için çok eski bir Telegram istemcisi kullanıyorsunuz"
+    }
+  },
+  "userTopBar": {
+    "welcome": "Hoşgeldin"
+  }
+} 

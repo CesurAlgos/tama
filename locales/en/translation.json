@@ -1,0 +1,35 @@
+{
+  "features": {
+    "title": "Features",
+    "description": "You can use these pages to learn more about features, provided by Telegram Mini Apps and other useful projects"
+  },
+  "tonConnect": {
+    "title": "TON Connect",
+    "subtitle": "Connect your TON wallet",
+    "placeholder": {
+      "header": "TON Connect",
+      "description": "To display the data related to the TON Connect, it is required to connect your wallet"
+    }
+  },
+  "appLaunchData": {
+    "title": "Application Launch Data",
+    "description": "These pages help developer to learn more about current launch information",
+    "initData": "Init Data",
+    "launchParams": "Launch Parameters",
+    "themeParams": "Theme Parameters",
+    "subtitles": {
+      "userData": "User data, chat information, technical data",
+      "platform": "Platform identifier, Mini Apps version, etc.",
+      "theme": "Telegram application palette information"
+    }
+  },
+  "errors": {
+    "unsupported": {
+      "header": "Oops",
+      "description": "You are using too old Telegram client to run this application"
+    }
+  },
+  "userTopBar": {
+    "welcome": "Welcome"
+  }
+} 
